@@ -1,0 +1,853 @@
+- title: WWW
+  description: International World Wide Web Conferences
+  sub: MX
+  rank: A
+  dblp: www
+  confs:
+    - year: 2021
+      id: www21
+      link: https://www2021.thewebconf.org/
+      timeline:
+        - abstract_deadline: '2020-10-12 23:59:59'
+          deadline: '2020-10-19 23:59:59'
+      timezone: AoE
+      date: April 19-23, 2021
+      place: Ljubljana, Slovenia
+
+    - year: 2022
+      id: www22
+      link: https://www2022.thewebconf.org/
+      timeline:
+        - abstract_deadline: '2021-10-14 23:59:59'
+          deadline: '2021-10-21 23:59:59'
+      timezone: AoE
+      date: April 25-29, 2022
+      place: Lyon, France
+- title: STOC
+  description: ACM Symposium on the Theory of Computing
+  sub: CT
+  rank: A
+  dblp: stoc
+  confs:
+    - year: 2021
+      id: stoc21
+      link: http://acm-stoc.org/stoc2021/
+      timeline:
+        - deadline: '2020-11-06 11:59:59'
+      timezone: UTC-5
+      date: June 21-25, 2021
+      place: Virtual
+- title: ESORICS
+  description: European Symposium on Research in Computer Security
+  sub: SC
+  rank: B
+  dblp: esorics
+  confs:
+    - year: 2021
+      id: esorics21
+      link: https://esorics2021.athene-center.de/
+      timeline:
+        - deadline: '2021-05-12 23:59:59'
+          comment: 'Abstract deadline on May 05'
+      timezone: UTC+1
+      date: October 04 – 08, 2021
+      place: Darmstadt, Germany
+- title: ASIACRYPT
+  description: International Conference on the Theory and Application of Cryptology and Information Security
+  sub: SC
+  rank: B
+  dblp: asiacrypt
+  confs:
+    - year: 2021
+      id: asiacrypt21
+      link: https://asiacrypt.iacr.org/2021/
+      timeline:
+        - deadline: '2021-05-27 11:59:59'
+      timezone: UTC-12
+      date: December 5-9, 2021
+      place: Singapore
+- title: USENIX Security
+  description: USENIX Security Symposium
+  sub: SC
+  rank: A
+  dblp: uss
+  confs:
+    - year: 2022
+      id: uss22
+      link: https://www.usenix.org/conference/usenixsecurity22
+      timeline:
+        - deadline: '2021-06-08 23:59:59'
+          comment: '3 review cycles'
+        - deadline: '2021-10-12 23:59:59'
+          comment: '3 review cycles'
+        - deadline: '2022-02-01 23:59:59'
+          comment: '3 review cycles'
+      timezone: UTC-12
+      date: August 10–12, 2022
+      place: BOSTON, MA, USA
+- title: PKC
+  description: International Conference on Practice and Theory of Public-Key Cryptography
+  sub: SC
+  rank: B
+  dblp: pkc
+  confs:
+    - year: 2021
+      id: pkc21
+      link: https://pkc.iacr.org/2021/
+      timeline:
+        - deadline: '2020-11-13 23:59:59'
+      timezone: UTC-12
+      date: May 10, 2021
+      place: Virtual
+- title: S&P
+  description: IEEE Symposium on Security and Privacy
+  sub: SC
+  rank: A
+  dblp: sp
+  confs:
+    - year: 2022
+      id: sp22
+      link: https://www.ieee-security.org/TC/SP2022/
+      timeline:
+        - deadline: '2021-08-19 23:59:59'
+          comment: '3 review cycles'
+        - deadline: '2021-12-02 23:59:59'
+          comment: '3 review cycles'
+      timezone: UTC-12
+      date: May 22-26, 2022
+      place: None
+- title: EUROCRYPT
+  description: European Cryptology Conference
+  sub: SC
+  rank: A
+  dblp: eurocrypt
+  confs:
+    - year: 2021
+      id: eurocrypt21
+      link: https://eurocrypt.iacr.org/2021
+      timeline:
+        - deadline: '2020-10-08 21:00:00'
+      timezone: UTC-12
+      date: October 17-21, 2021
+      place: Zagreb, Croatia
+- title: TCC
+  description: Theory of Cryptography Conference
+  sub: SC
+  rank: B
+  dblp: tcc
+  confs:
+    - year: 2021
+      id: tcc21
+      link: https://tcc.iacr.org/2021/
+      timeline:
+        - deadline: '2021-05-25 21:00:00'
+      timezone: UTC-12
+      date: Nov 8, 2021
+      place: Raleigh, United States
+- title: CCS
+  description: ACM Conference on Computer and Communications Security
+  sub: SC
+  rank: A
+  dblp: ccs
+  confs:
+    - year: 2020
+      id: ccs20
+      link: https://www.sigsac.org/ccs/CCS2020/
+      timeline:
+        - deadline: '2020-01-20 23:59:59'
+          comment: '2 review cycles'
+      timezone: UTC-12
+      date: November 9-13, 2020
+      place: Orlando, USA
+    - year: 2021
+      id: ccs21
+      link: https://www.sigsac.org/ccs/CCS2021/
+      timeline:
+        - deadline: '2021-01-20 23:59:59'
+          comment: '2 review cycles'
+        - deadline: '2021-05-06 23:59:59'
+          comment: 'spring'
+      timezone: UTC-12
+      date: November 15-19, 2021
+      place: Seoul, South Korea
+- title: NDSS
+  description: Network and Distributed System Security (NDSS) Symposium
+  sub: SC
+  rank: B
+  dblp: ndss
+  confs:
+    - year: 2022
+      id: ndss22
+      link: https://www.ndss-symposium.org/ndss2022/
+      timeline:
+        - deadline: '2021-05-21 23:59:59'
+          comment: 'spring'
+        - deadline: '2021-07-23 23:59:59'
+          comment: 'fall'
+      timezone: UTC-12
+      date: February 27 – March 3, 2022
+      place: San Diego, California
+- title: CRYPTO
+  description: International Cryptology Conference
+  sub: SC
+  rank: A
+  dblp: crypto
+  confs:
+    - year: 2021
+      id: crypto21
+      link: https://crypto.iacr.org/2021/
+      timeline:
+        - deadline: '2021-02-24 21:00:00'
+      timezone: UTC-12
+      date: August 15-19 2021
+      place: Virtual
+- title: ICSE
+  description: International Conference on Software Engineering
+  sub: SE
+  rank: A
+  dblp: icse
+  confs:
+    - year: 2022
+      id: icse22
+      link: https://conf.researchr.org/home/icse-2022
+      timeline:
+        - abstract_deadline: '2021-08-27 23:59:59'
+          deadline: '2021-09-03 23:59:59'
+      timezone: AoE
+      date: May 21-29, 2022
+      place: Pittsburgh, PA, USA
+- title: SOSP
+  description: ACM Symposium on Operating Systems Principles
+  sub: SE
+  rank: A
+  dblp: sosp
+  confs:
+    - year: 2021
+      id: sosp21
+      link: https://sosp2021.mpi-sws.org/
+      timeline:
+        - deadline: '2021-05-07 14:59:59'
+      timezone: UTC-8
+      date: October 25-28, 2021
+      place: Virtual
+- title: PLDI
+  description: ACM SIGPLAN Conference on Programming Language Design & Implementation
+  sub: SE
+  rank: A
+  dblp: pldi
+  confs:
+    - year: 2021
+      id: pldi21
+      link: https://pldi21.sigplan.org/
+      timeline:
+        - deadline: '2020-11-20 23:59:59'
+      timezone: AoE
+      date: June 23-25, 2020
+      place: Virtual
+- title: SIGCOMM
+  description: ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
+  sub: NW
+  rank: A
+  dblp: sigcomm
+  confs:
+    - year: 2021
+      id: sigcomm21
+      link: http://conferences.sigcomm.org/sigcomm/2021/
+      timeline:
+        - abstract_deadline: '2021-01-20 16:59:59'
+          deadline: '2021-01-27 16:59:59'
+      timezone: UTC-5
+      date: August 23-27, 2021
+      place: Virtual
+- title: INFOCOM
+  description: IEEE International Conference on Computer Communications
+  sub: NW
+  rank: A
+  dblp: infocom
+  confs:
+    - year: 2021
+      id: infocom21
+      link: https://infocom2021.ieee-infocom.org/
+      timeline:
+        - abstract_deadline: '2020-08-08 23:59:59'
+          deadline: '2020-08-15 23:59:59'
+      timezone: UTC-4
+      date: May 10-13, 2021
+      place: Virtual
+    - year: 2022
+      id: infocom22
+      link: https://infocom2022.ieee-infocom.org/
+      timeline:
+        - abstract_deadline: '2021-07-24 23:59:59'
+          deadline: '2021-07-31 23:59:59'
+      timezone: UTC-4
+      date: May 2-5, 2022
+      place: Virtual
+- title: NSDI
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  sub: NW
+  rank: A
+  dblp: nsdi
+  confs:
+    - year: 2022
+      id: nsdi22
+      link: https://www.usenix.org/conference/nsdi22/
+      timeline:
+        - abstract_deadline: '2021-03-04 20:59:59'
+          deadline: '2021-03-10 16:59:59'
+      timezone: UTC-8
+      date: April 4-6, 2022
+      place: RENTON, USA
+- title: ICASSP
+  description: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  sub: CG
+  rank: B
+  dblp: icassp
+  confs:
+    - year: 2022
+      id: icassp22
+      link: https://2022.ieeeicassp.org
+      timeline:
+        - deadline: '2021-10-01 23:59:59'
+      timezone: UTC+0
+      date: May 22-27, 2022
+      place: Singapore
+- title: SIGGRAPH
+  description: ACM SIGGRAPH Annual Conference
+  sub: CG
+  rank: A
+  dblp: siggraph
+  confs:
+    - year: 2021
+      id: siggraph21
+      link: https://s2021.siggraph.org/
+      timeline:
+        - abstract_deadline: '2021-01-27 22:00:00'
+          deadline: '2021-01-28 22:00:00'
+      timezone: UTC+0
+      date: August 9-13, 2021
+      place: Virtual
+- title: ACM MM
+  description: ACM International Conference on Multimedia
+  sub: CG
+  rank: A
+  dblp: mm
+  confs:
+    - year: 2021
+      id: mm21
+      link: https://2021.acmmm.org/
+      timeline:
+        - abstract_deadline: '2021-04-10 23:59:59'
+          deadline: '2021-04-17 23:59:59'
+      timezone: AoE
+      date: October 21-24, 2021
+      place: Chengdu, China
+- title: SIGGRAPH ASIA
+  description: ACM SIGGRAPH Annual Conference in Asia
+  sub: CG
+  rank: A
+  dblp: siggrapha
+  confs:
+    - year: 2021
+      id: siggrapha21
+      link: https://sa2021.siggraph.org/
+      timeline:
+        - abstract_deadline: '2021-05-20 22:00:00'
+          deadline: '2021-05-21 22:00:00'
+      timezone: UTC+0
+      date: December 14-17, 2021
+      place: Tokyo, Japan
+- title: CSCW
+  description: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  sub: HI
+  rank: A
+  dblp: cscw
+  confs:
+    - year: 2021
+      id: cscw21
+      link: https://cscw.acm.org/2021/
+      timeline:
+        - deadline: '2021-04-15 23:59:59'
+      timezone: AoE
+      date: TBD
+      place: Virtual
+- title: ICML
+  description: International Conference on Machine Learning
+  sub: AI
+  rank: A
+  dblp: icml
+  confs:
+    - year: 2021
+      id: icml21
+      link: https://icml.cc/Conferences/2021/
+      timeline:
+        - abstract_deadline: '2021-01-28 23:59:59'
+          deadline: '2021-02-04 23:59:59'
+          comment: 'Mandatory abstract deadline on Jan 28, 2021.'
+      timezone: UTC-12
+      date: July 18-24, 2021
+      place: Vienna, Austria
+- title: ICCV
+  description: IEEE International Conference on Computer Vision
+  sub: AI
+  rank: A
+  dblp: iccv
+  confs:
+    - year: 2021
+      id: iccv21
+      link: http://iccv2021.thecvf.com/home/
+      timeline:
+        - deadline: '2021-03-17 23:59:59'
+      timezone: UTC-7
+      date: October 10-17, 2021
+      place: Montreal
+- title: ICRA
+  description: IEEE International Conference on Robotics and Automation
+  sub: AI
+  rank: B
+  dblp: icra
+  confs:
+    - year: 2022
+      id: icra22
+      link: https://www.icra2022.org/
+      timeline:
+        - deadline: '2021-09-15 02:59:00'
+      timezone: UTC-8
+      date: May 23-27, 2022
+      place: Philadelphia (PA), USA
+- title: UAI
+  description: Conference on Uncertainty in Artificial Intelligence
+  sub: AI
+  rank: B
+  dblp: uai
+  confs:
+    - year: 2021
+      id: uai21
+      link: http://auai.org/uai2021/
+      timeline:
+        - deadline: '2021-02-19 23:59:59'
+      timezone: UTC+0
+      date: July 27-29, 2021
+      place: Virtual
+- title: ICTAI
+  description: International Conference on Tools with Artificial Intellignce
+  sub: AI
+  rank: C
+  dblp: ictai
+  confs:
+    - year: 2021
+      id: ictai21
+      link: https://ictai.computer.org/
+      timeline:
+        - deadline: '2021-06-20 23:59:00'
+      timezone: UTC-7
+      date: November 01-03, 2021
+      place: Washington DC, USA
+- title: BMVC
+  description: British Machine Vision Conference
+  sub: AI
+  rank: C
+  dblp: bmvc
+  confs:
+    - year: 2021
+      id: bmvc21
+      link: https://britishmachinevisionassociation.github.io/bmvc
+      timeline:
+        - deadline: '2021-06-25 23:59:59'
+      timezone: UTC-8
+      date: November 22-25, 2021
+      place: Virtual
+- title: ACML
+  description: Asian Conference on Machine Learning
+  sub: AI
+  rank: C
+  dblp: acml
+  confs:
+    - year: 2021
+      id: acml21
+      link: http://www.acml-conf.org/2021/
+      timeline:
+        - deadline: '2021-06-25 23:59:59'
+      timezone: UTC-7
+      date: November 17-19, 2021
+      place: Virtual
+- title: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  sub: AI
+  rank: A
+  dblp: nips
+  confs:
+    - year: 2021
+      id: nips21
+      link: https://neurips.cc/Conferences/2021/
+      timeline:
+        - abstract_deadline: '2021-05-21 20:00:00'
+          deadline: '2021-05-28 20:00:00'
+      timezone: UTC+0
+      date: December 5-14, 2021
+      place: Virtual
+- title: AAAI
+  description: AAAI Conference on Artificial Intelligence
+  sub: AI
+  rank: A
+  dblp: aaai
+  confs:
+    - year: 2022
+      id: aaai22
+      link: https://aaai.org/Conferences/AAAI-22/
+      timeline:
+        - abstract_deadline: '2021-08-30 23:59:59'
+          deadline: '2021-09-08 23:59:59'
+      timezone: UTC-12
+      date: February 22 - March 1, 2022
+      place: Vancouver, British Columbia, Canada
+- title: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  sub: AI
+  rank: A
+  dblp: cvpr
+  confs:
+    - year: 2022
+      id: cvpr22
+      link: http://cvpr2022.thecvf.com/
+      timeline:
+        - abstract_deadline: '2021-11-09 23:59:00'
+          deadline: '2021-11-16 23:59:00'
+      timezone: UTC-7
+      date: June 19 - June 24, 2022
+      place: New Orleans, Louisiana
+- title: EuroSys
+  description: European Conference on Computer Systems
+  sub: DS
+  rank: B
+  dblp: eurosys
+  confs:
+    - year: 2021
+      id: eurosys2021
+      link: https://2021.eurosys.org/
+      timeline:
+        - abstract_deadline: '2020-10-09 23:59:59'
+          deadline: '2020-10-01 23:59:59'
+      timezone: AoE
+      date: April 26–29, 2021
+      place: Edinburgh, UK
+- title: ICPP
+  description: International Conference on Parallel Processing
+  sub: DS
+  rank: B
+  dblp: icpp
+  confs:
+    - year: 2021
+      id: icpp21
+      link: https://oaciss.uoregon.edu/icpp21/
+      timeline:
+        - deadline: '2021-04-16 23:59:59'
+      timezone: AoE
+      date: August 9-12, 2021
+      place: Chicago, USA
+- title: USENIX ATC
+  description: USENIX Annual Technical Conference
+  sub: DS
+  rank: A
+  dblp: usenix
+  confs:
+    - year: 2021
+      id: atc2021
+      link: https://www.usenix.org/conference/atc21/
+      timeline:
+        - deadline: '2021-01-12 23:59:59'
+      timezone: AoE
+      date: July 14–16, 2021
+      place: SANTA CLARA, USA
+- title: ASPLOS
+  description: International Conference on Architectural Support for Programming Languages and Operating Systems
+  sub: DS
+  rank: A
+  dblp: asplos
+  confs:
+    - year: 2021
+      id: asplos21
+      link: https://asplos-conference.org/
+      timeline:
+        - deadline: '2020-08-21 23:59:59'
+      timezone: AoE
+      date: April 19–23, 2021
+      place: Virtual
+    - year: 2022
+      id: asplos22
+      link: https://asplos-conference.org/
+      timeline:
+        - deadline: '2021-08-06 23:59:59'
+      timezone: AoE
+      date: Feb 28-March 4, 2022
+      place: Virtual
+- title: ICDCS
+  description: IEEE International Conference on Distributed Computing Systems
+  sub: DS
+  rank: B
+  dblp: icdcs
+  confs:
+    - year: 2020
+      id: icdcs20
+      link: https://icdcs2020.sg/
+      timeline:
+        - abstract_deadline: '2020-01-06 23:59:59'
+          deadline: '2020-01-13 23:59:59'
+      timezone: UTC-7
+      date: July 8-10, 2020
+      place: Singapore
+- title: FAST
+  description: USENIX Conference on File and Storage Technologies
+  sub: DS
+  rank: A
+  dblp: fast
+  confs:
+    - year: 2021
+      id: fast21
+      link: https://www.usenix.org/conference/fast21/
+      timeline:
+        - deadline: '2020-09-24 23:59:59'
+      timezone: UTC-7
+      date: Feburary 23–25, 2021
+      place: Virtual
+    - year: 2022
+      id: fast22
+      link: https://www.usenix.org/conference/fast22/
+      timeline:
+        - deadline: '2021-09-23 23:59:59'
+      timezone: UTC-7
+      date: Feburary 21–24, 2022
+      place: SANTA CLARA, CA, USA
+- title: PPoPP
+  description: ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming
+  sub: DS
+  rank: A
+  dblp: ppopp
+  confs:
+    - year: 2021
+      id: ppopp21
+      link: https://ppopp21.sigplan.org/
+      timeline:
+        - abstract_deadline: '2020-08-06 23:59:59'
+          deadline: '2020-08-13 23:59:59'
+      timezone: AoE
+      date: Feburary 27-Mar 3, 2021
+      place: Virtual
+- title: ICDE
+  description: IEEE International Conference on Data Engineering
+  sub: DB
+  rank: A
+  dblp: icde
+  confs:
+    - year: 2021
+      id: icde21
+      link: https://icde2021.gr/
+      timeline:
+        - deadline: '2021-10-01 23:59:59'
+      timezone: AoE
+      date: April 19-22, 2021
+      place: Virtual
+    - year: 2022
+      id: icde22
+      link: https://icde2022.ieeecomputer.my/important-dates/
+      timeline:
+        - deadline: '2021-07-21 23:59:59'
+          comment: 'first round'
+        - deadline: '2021-11-17 23:59:59'
+          comment: 'second round'
+      timezone: UTC-8
+      date: May 9-12, 2022
+      place: Kuala Lumpur, Malaysia
+- title: CIKM
+  description: ACM International Conference on Information and Knowledge Management
+  sub: DB
+  rank: B
+  dblp: cikm
+  confs:
+    - year: 2020
+      id: cikm20
+      link: https://www.cikm2020.org/
+      timeline:
+        - deadline: '2020-05-01 23:59:59'
+      timezone: UTC-12
+      date: October 19-23, 2021
+      place: Galway, Ireland
+    - year: 2021
+      id: cikm21
+      link: https://www.cikm2021.org/
+      timeline:
+        - deadline: '2021-05-26 23:59:59'
+      timezone: AoE
+      date: November 01-05, 2021
+      place: Queensland, Australia
+- title: SIGIR
+  description: International Conference on Research on Development in Information Retrieval
+  sub: DB
+  rank: A
+  dblp: sigir
+  confs:
+    - year: 2021
+      id: sigir21
+      link: http://sigir.org/sigir2021/
+      timeline:
+        - abstract_deadline: '2021-02-02 23:59:59'
+          deadline: '2021-02-09 23:59:59'
+      timezone: AoE
+      date: July 11-15, 2021
+      place: Virtual
+- title: SIGKDD
+  description: ACM Knowledge Discovery and Data Mining
+  sub: DB
+  rank: A
+  dblp: kdd
+  confs:
+    - year: 2021
+      id: sigkdd21
+      link: https://www.kdd.org/kdd2021/
+      timeline:
+        - deadline: '2021-02-08 23:59:59'
+      timezone: AoE
+      date: August 14-18, 2021
+      place: Singapore
+- title: DASFAA
+  description: Database Systems for Advanced Applications
+  sub: DB
+  rank: B
+  dblp: dasfaa
+  confs:
+    - year: 2021
+      id: dasfaa21
+      link: http://dm.iis.sinica.edu.tw/DASFAA2021/
+      timeline:
+        - deadline: '2020-10-28 23:59:59'
+      timezone: UTC-7
+      date: April 11-14, 2021
+      place: Taipei, China
+- title: ECML-PKDD
+  description: European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases
+  sub: DB
+  rank: B
+  dblp: pkdd
+  confs:
+    - year: 2021
+      id: ecmlpkdd21
+      link: https://2021.ecmlpkdd.org/
+      timeline:
+        - abstract_deadline: '2021-03-26 23:59:59'
+          deadline: '2021-04-02 23:59:59'
+      timezone: AoE
+      date: September 13-17, 2021
+      place: Virtual
+- title: SIGMOD
+  description: ACM Conference on Management of Data
+  sub: DB
+  rank: A
+  dblp: sigmod
+  confs:
+    - year: 2021
+      id: sigmod21
+      link: http://2021.sigmod.org/
+      timeline:
+        - deadline: '2020-09-22 17:00:00'
+          comment: 'second round'
+      timezone: UTC-8
+      date: June 20-25, 2021
+      place: Xi'an, China
+    - year: 2022
+      id: sigmod22
+      link: http://2022.sigmod.org/
+      timeline:
+        - deadline: '2021-07-02 17:00:00'
+          comment: 'first round'
+        - deadline: '2021-09-15 17:00:00'
+          comment: 'second round'
+      timezone: UTC-8
+      date: June 12-17, 2022
+      place: Philadelphia, PA, USA
+- title: ICDT
+  description: International Conference on Database Theory
+  sub: DB
+  rank: B
+  dblp: icdt
+  confs:
+    - year: 2022
+      id: icdt22
+      link: https://conferences.inf.ed.ac.uk/edbticdt2022/
+      timeline:
+        - abstract_deadline: '2021-09-06 23:59:59'
+          deadline: '2021-09-13 23:59:59'
+      timezone: AoE
+      date: Mar 29-April 01, 2022
+      place: Edinburgh, UK
+- title: VLDB
+  description: International Conference on Very Large Data Bases
+  sub: DB
+  rank: A
+  dblp: vldb
+  confs:
+    - year: 2021
+      id: vldb21
+      link: http://www.vldb.org/2021/
+      timeline:
+        - deadline: '2020-04-01 17:00:00'
+        - deadline: '2020-05-01 17:00:00'
+        - deadline: '2020-06-01 17:00:00'
+        - deadline: '2020-07-01 17:00:00'
+        - deadline: '2020-08-01 17:00:00'
+        - deadline: '2020-09-01 17:00:00'
+        - deadline: '2020-10-01 17:00:00'
+        - deadline: '2020-11-01 17:00:00'
+        - deadline: '2020-12-01 17:00:00'
+        - deadline: '2021-01-01 17:00:00'
+        - deadline: '2021-02-01 17:00:00'
+        - deadline: '2021-03-01 17:00:00'
+      timezone: UTC-7
+      date: August 16-20, 2021
+      place: Copenhagen, Denmark
+    - year: 2022
+      id: vldb22
+      link: http://www.vldb.org/2022/
+      timeline:
+        - deadline: '2021-04-01 17:00:00'
+        - deadline: '2021-05-01 17:00:00'
+        - deadline: '2021-06-01 17:00:00'
+        - deadline: '2021-07-01 17:00:00'
+        - deadline: '2021-08-01 17:00:00'
+        - deadline: '2021-09-01 17:00:00'
+        - deadline: '2021-10-01 17:00:00'
+        - deadline: '2021-11-01 17:00:00'
+        - deadline: '2021-12-01 17:00:00'
+        - deadline: '2022-01-01 17:00:00'
+        - deadline: '2022-02-01 17:00:00'
+        - deadline: '2022-03-01 17:00:00'
+      timezone: UTC-7
+      date: September 05-09, 2022
+      place: Sydney, Australia
+- title: EDBT
+  description: International Conference on Extending Database Technology
+  sub: DB
+  rank: B
+  dblp: edbt
+  confs:
+    - year: 2022
+      id: edbt22
+      link: https://conferences.inf.ed.ac.uk/edbticdt2022/
+      timeline:
+        - deadline: '2021-10-01 23:59:59'
+      timezone: AoE
+      date: Mar 29-April 01, 2022
+      place: Edinburgh, UK
+- title: ICDM
+  description: IEEE International Conference on Data Mining
+  sub: DB
+  rank: B
+  dblp: icdm
+  confs:
+    - year: 2021
+      id: icdm21
+      link: https://icdm2021.auckland.ac.nz/
+      timeline:
+        - deadline: '2021-06-12 14:59:00'
+      timezone: UTC+8
+      date: December 7-10, 2021
+      place: Auckland, New Zealand
